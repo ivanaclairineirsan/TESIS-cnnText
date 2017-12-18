@@ -1,0 +1,4 @@
+INFO:tensorflow:Restoring parameters from D:\ITB\S2\TESIS\cnn\runs\0\1509842765\checkpoints\model-3600
+Total number of test examples: 1200
+Accuracy: 0.916667
+
